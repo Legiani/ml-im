@@ -1,0 +1,96 @@
+{
+  "general":{
+    "pageName":"Mluv.im",
+    "pageAuthor":"Cimrman",
+    "pageDescription":"Všechno je tu boží",
+    "pageDisableJS":"You don't have javascript enabled.  Good luck with that :-)."
+
+  },
+  "homepage":{
+    "newStudent":"Chci mluvit",
+    "newTeacher":"Chci učit"
+  },
+  "email":{
+    "confirmMailHeader":"Mluv.im confirm email",
+    "confirmMailBody":"<p>Open link to confirm registration on Mluv.im</p>",
+    "forgetMailHeader":"Mluv.im confirm email",
+    "forgetMailBody":"<p>Open link to change mail on Mluv.im</p>"
+  },
+  "menu":{
+    "menuTeachers":"Učitelé",
+    "menuLanguage":"Jazyky",
+    "menuLogin":"Přihlásit",
+    "menuRegistr":"Registrovat",
+    "menuUser":"Můj učet",
+    "menuLogOut":"Odhlásit se",
+    "menuImTeacher":"Jsem učitel"
+  },
+  "login":{
+    "logHeading":"Přihlaste se",
+    "mail":"E-mail",
+    "password":"Heslo",
+    "logButton":"Přihlasit se",
+
+    "regHeading":"Registrujte se",
+    "regMail":"E-mail",
+    "regPassword":"Heslo",
+    "passwordCheck":"Heslo ještě jednou",
+    "regFirstName":"Jméno",
+    "regLastName":"Přijmení",
+    "regAcceptPolicy":"Souhlasím s podmínkamy použití",
+    "regButton":"Registrovat",
+
+    "forgetHeading":"Vyplňte e-mail pro obnovení hesla",
+    "forgetMail":"E-mail pro odeslání obnovovacího linku",
+    "forgetButton":"Vyžádt změnu",
+
+    "changeHeading":"Vyplnte nové heslo",
+    "changeButton":"Změnit heslo"
+  },
+  "main":{
+    "mainHeading":"Mluv.im",
+    "mainSubtitle":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis viverra diam non justo. Nullam justo enim, consectetuer nec, ullamcorper ac, vestibulum in, elit. Integer vulputate sem a nibh rutrum consequat. Nunc tincidunt ante vitae massa. Curabitur bibendum justo non orci.",
+    "studentButton":"Chci byt student",
+    "teacherButton":"Chci byt učitel",
+    "filtrLang":"Jazyk",
+    "filtrCity":"Město",
+    "filtrButton":"Filtrovat",
+    "filtrPrice":"Cena"
+  },
+  "teacherSite":{
+    "teacherHeading":"Mluv.im",
+    "teacherSubtitle":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis viverra diam non justo. Nullam justo enim, consectetuer nec, ullamcorper ac, vestibulum in, elit. Integer vulputate sem a nibh rutrum consequat. Nunc tincidunt ante vitae massa. Curabitur bibendum justo non orci."
+  },
+  "detailPage":{
+    "detailAbout":"O mě",
+    "detailKeywords":"Keywords",
+    "detailCircles":"Koho učím",
+    "detailLanguage":"Jazyky",
+    "detailReview":"Komentaře"
+  },
+  "teacherReg":{
+    "fgeneral":"Obecné informace",
+    "fcontactMail":"Kontaktní mail",
+    "fcontactPhone":"Kontaktní telefon",
+    "fage":"Věk",
+    "fgender":"Pohlaví",
+    "fman":"Muž",
+    "fwoman":"Žena",
+    "fphoto":"Foto",
+    "flanguage":"Jazyk",
+    "fchoiceLanguage":"Vyberte jazyk",
+    "fchoiceLevl": "a svou úrověn",
+    "fnoCerificate": "bez cerifikátu",
+    "faddLang": "Přidat +",
+    "fdelLang": "Odebrat -",
+    "fmyCircle": "Koho učím",
+    "fcity": "Kde učím",
+    "fprice": "a za kolik",
+    "fsmallInfo": "Cena hodiny (1 hodina se rovná 60min)",
+    "fabout": "Neco o mě",
+    "allVisible": "Všechny informace budou viditelné na vašem profilu.",
+
+    "next": "Další",
+    "back": "Předchozí"
+  }
+}

@@ -1,0 +1,31 @@
+#background{
+  background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url("/assets/img/mainBack.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: min-content;
+
+
+}
+
+.cityImage{
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: min-content;
+}
+
+.container, .container-fluid{ 
+  padding: 0px;
+}
+
+#mainScreen{
+  height: -moz-calc(100% - (56px));
+  height: -webkit-calc(100% - (56px));
+  height: calc(100% - (56px));
+  display:block
+}
+
+.move{
+  margin-top: -18px;
+  display: block; 
+}
+
